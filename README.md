@@ -51,9 +51,9 @@ When exporting new logos from Figma, use these specifications for consistency:
 
 The horizontal logos (`[mark] type`) can be either used as a SVG that contains both the
 mark and the type OR as two elements: the mark as an SVG element and the type as a
-normal text element. In the latter case, the font face must be set to `Georgia`, and the
-gap between the two elements must be `0.25em`. If the font size is 64px, the mark must
-be a square of `48px` side, centered vertically (not at the type baseline). These
+normal text element. In the latter case, the font face must be set to `Crimson Pro`, and
+the gap between the two elements must be `0.25em`. If the font size is 64px, the mark
+must be a square of `48px` side, centered vertically (not at the type baseline). These
 proportions must always be kept when resizing the elements.
 
 ### Color Palette

@@ -1,5 +1,7 @@
 # Aris Brand Assets
 
+**Aris: the open research stack. Web-native. Human-first.**
+
 This repository contains all official brand assets for the Aris ecosystem. All Aris
 projects should include this repository as a git submodule to ensure consistent
 branding.

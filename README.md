@@ -60,9 +60,10 @@ proportions must always be kept when resizing the elements.
 
 ### Color Palette
 - **Aris**: Slate gray (#6B7280)
+- **Aris website**: Purple (#AD71F2)
 - **Studio**: Blue (#3B82F6)
 - **Press**: Red/Coral (#EF4444)
-- **Forum**: Purple (#A855F7)
+- **Hallway Track**: Teal (#1FB5A2)
 - **RSM**: (see rsm/logo.svg for current colors)
 
 

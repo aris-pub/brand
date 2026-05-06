@@ -2,10 +2,8 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
 # Thumbnails
 ._*
-
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
@@ -14,22 +12,35 @@
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
-
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
-
 # Design working files (if applicable)
 *.sketch
 *.fig
 *.xd
 *.ai
 *.psd
-
 # Build artifacts
 dist/
 build/
 .claude/skills
+.venv/
+venv/
+env/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+coverage/
+.beads/dolt-server.*
+.beads/embeddeddolt/
+.beads/.beads-credential-key

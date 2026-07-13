@@ -59,10 +59,10 @@ must be a square of `48px` side, centered vertically (not at the type baseline).
 proportions must always be kept when resizing the elements.
 
 ### Color Palette
-- **Aris**: Slate gray (#6B7280)
+- **Aris**: Slate gray (#8B9FAD)
 - **Aris website**: Purple (#AD71F2)
-- **Studio**: Blue (#3B82F6)
-- **Press**: Red/Coral (#EF4444)
+- **Studio**: Blue (#38B4F8)
+- **Press**: Red/Coral (#FF6B6B)
 - **Hallway Track**: Teal (#1FB5A2)
 - **RSM**: (see rsm/logo.svg for current colors)
 

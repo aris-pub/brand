@@ -303,6 +303,65 @@ implementation decision was made. A README is not an about page.
 
 ---
 
+## Naming
+
+How Aris names the things it builds. Derived from what already exists rather than imposed
+on it: Press, Studio, Forum, Feed, Scroll, Arch, RSM, BRAIID, The Hallway Track,
+Mathematheque.
+
+### Two kinds of name
+
+**Products get a plain noun from scholarly life.** Press, Studio, Forum, Feed. A word
+anyone already knows, naming a place or object a researcher recognises. The test is
+whether it explains itself: someone hearing "Press" for the first time is not confused,
+and nobody has to be told what a Studio is.
+
+**Technical layers get an acronym that spells a real word.** RSM is Readable Science
+Markup. ARCH is Accessible Research Charter for Hypertext, and an arch is also a
+structure. Mathematheque is the exception that proves the pattern, a portmanteau rather
+than an acronym, but it earns it by sounding like the word it belongs next to.
+
+Never an acronym that spells nothing. Never a word invented from scratch.
+
+### Full name and short name
+
+A product may have both, and the short one is what people actually use. Scroll Press is
+Press. Mathematheque is Matheque. Decide the short form deliberately rather than
+discovering which contraction people landed on, and register the domain for both.
+
+### What to avoid
+
+**Obscure vocabulary.** Stoa was proposed for Mathematheque and rejected on exactly this
+ground. It is the right word, a covered colonnade where scholars talked, and almost
+nobody knows it. A name that needs a sentence of explanation every time costs more than
+it is worth.
+
+**Words carrying a bad idiom.** Gloss was rejected because "gloss over" means to skim
+past without explaining, which is the opposite of the thing it would have named. Say the
+name out loud in its ugliest sense before committing.
+
+**Words already claimed in scholarly software.** This space is more crowded than it
+looks. Scholia is a Wikidata scholarly profiling service. Portico is a preservation
+service. Folio is an integrated library system. Marginalia is an independent search
+engine. Commons belongs to Wikimedia. Check before falling in love.
+
+**Growth and SaaS vocabulary**, per the rest of this document. No Hub, no Cloud, no AI
+prefix, no invented capitalisation.
+
+### Before committing to a name
+
+1. Would a researcher guess roughly what it is, without help?
+2. Is the word claimed by anything in scholarly publishing, library systems or research
+   tooling? Search, and search Wikidata specifically, which surfaces collisions a web
+   search buries.
+3. What does it mean in its worst reading?
+4. What will people shorten it to, and is that name free as well?
+5. Are the domains available? Check RDAP rather than a registrar's search box, which has
+   an interest in telling you a name is taken.
+6. Does it sit beside the existing names without looking borrowed from somewhere else?
+
+---
+
 ## The Test
 
 Before publishing anything under the Aris name:

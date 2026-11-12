@@ -237,6 +237,8 @@ exceptions.
    number" and "figures are saved as data, so they keep working when the player changes".
 4. **Slogan headings.** A heading says what its section says, in plain words. Not
    "Figures inside the argument" or "Source written to be read".
+5. **A relative clause without "that" (or "who" / "which").** Always write the word.
+   Not "a figure your readers can drag", but "a figure that readers can drag".
 
 The test: state each claim as a plain sentence, with a person or a concrete thing as the
 subject doing a concrete action, the way a researcher would say it out loud.

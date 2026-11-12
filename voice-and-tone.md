@@ -220,6 +220,27 @@ are interested in who stands behind it.
 - ~~"We believe"~~ → we build; belief is implied by the work
 - ~~"We care about researchers"~~ → show it; don't say it
 
+### Forbidden constructions
+
+Completely unacceptable in any Aris text: copy, docs, posts, grants, emails, chat. No
+exceptions.
+
+1. **An abstract noun in place of the actual thing.** Name the thing and what happens.
+   Not "a piece of the mathematics the reader works with", but "a figure the reader can
+   change".
+2. **A noun with a clause packed into it, often ending in a preposition.** Not "the
+   mathematics the reader works with" or "the code that draws it". Write a full sentence
+   instead.
+3. **Things doing what people do.** A page, a figure, a compiler or a result does not
+   stop, outlive, skip, say, show or want anything. Not "mistakes stop at the compiler" or
+   "the figure outlives the code", but "compiling fails with an error that gives the line
+   number" and "figures are saved as data, so they keep working when the player changes".
+4. **Slogan headings.** A heading says what its section says, in plain words. Not
+   "Figures inside the argument" or "Source written to be read".
+
+The test: state each claim as a plain sentence, with a person or a concrete thing as the
+subject doing a concrete action, the way a researcher would say it out loud.
+
 ### Vague virtues
 
 If a sentence asserts goodness without evidence, cut it or replace it with a specific
